@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Tambahan-----------------------------------------
+
+# Data & Cache lokal
+data/
+*.zip
+*.xml
+*.jpg
+*.png
+__pycache__/
+.ipynb_checkpoints/
+
+# Kaggle Token
+kaggle.json
+
+# Model Bobot Berat
+models/*.pkl
+models/*.joblib
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+
